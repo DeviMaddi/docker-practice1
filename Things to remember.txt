@@ -13,3 +13,5 @@ docker images // to view list of docker images
 docker run -p 9090:8080 imageName.jar 
 
 After running, check with port 9090 which is docker port 
+
+* docker container run hello-world   // to run hello world program, which image is already present in docker hub
