@@ -1,6 +1,6 @@
 Things to remember :
 
-Dockerfile  name should be "DockerFile"
+Dockerfile  name should be "Dockerfile"
 
 need to add <finalName>imageName</finalName>
 
