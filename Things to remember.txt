@@ -1,0 +1,15 @@
+Things to remember :
+
+Dockerfile  name should be "DockerFile"
+
+need to add <finalName>imageName</finalName>
+
+DockerCommands:
+
+docker build -t imageName.jar .  // to create image
+
+docker images // to view list of docker images
+
+docker run -p 9090:8080 imageName.jar 
+
+After running, check with port 9090 which is docker port 
