@@ -6,7 +6,7 @@ need to add <finalName>imageName</finalName>
 
 DockerCommands:
 
-docker build -t imageName.jar .  // to create image
+docker build -t imageName.jar .  // to create image  // run under your current directory
 
 docker images // to view list of docker images
 
